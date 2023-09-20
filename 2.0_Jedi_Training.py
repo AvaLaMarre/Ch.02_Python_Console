@@ -41,9 +41,9 @@ x,y = (4,5)
 a = 3(x + y)
 a
 
-() does not multiply, it need *
-a = 3*(x + y
-a
+() does not multiply, it needs *
+a = 3*(x + y)
+a = 27
 
 5.) What is the mistake in the following code so it will calculate the average? Comment it and fix it!  (1pt)
 
@@ -53,6 +53,6 @@ ave
 
 There is no ()
 ave = (x+y+z)/3
-ave
+ave =  4
 
 '''
